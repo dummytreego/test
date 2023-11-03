@@ -2,5 +2,6 @@ hello
 yes
 awesome
 yeap
+usepulllocal
 great
 usepullorigin
